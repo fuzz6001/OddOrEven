@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OddOrEven</string>
+    <string name="result_cho">丁</string>
+    <string name="result_han">半</string>
+    <string name="open">勝負</string>
+</resources>
