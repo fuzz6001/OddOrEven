@@ -3,4 +3,30 @@
     <string name="result_cho">丁</string>
     <string name="result_han">半</string>
     <string name="open">勝負</string>
+    <string name="left_dice">left dice</string>
+    <string name="right_dice">right dice</string>
+
+    <string name="name11">ピンゾロ</string>
+    <string name="name12">イチニ</string>
+    <string name="name13">サンミチ</string>
+    <string name="name14">ヨイチ</string>
+    <string name="name15">グイチ</string>
+    <string name="name16">イチロク</string>
+    <string name="name22">ニゾロ</string>
+    <string name="name23">サニ</string>
+    <string name="name24">シニ</string>
+    <string name="name25">グニ</string>
+    <string name="name26">ニロク</string>
+    <string name="name33">サンゾロ</string>
+    <string name="name34">シソウ</string>
+    <string name="name35">グサン</string>
+    <string name="name36">サブロク</string>
+    <string name="name44">シゾロ</string>
+    <string name="name45">グシ</string>
+    <string name="name46">シロク</string>
+    <string name="name55">ゴゾロ</string>
+    <string name="name56">ゴロク</string>
+    <string name="name66">ロクゾロ</string>
+    <string name="name_no">の</string>
+
 </resources>
